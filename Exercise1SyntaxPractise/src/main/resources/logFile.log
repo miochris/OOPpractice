@@ -1,0 +1,103 @@
+2016-08-31 11:54:54 INFO  Input:23 - Please choose the currency you have from: [CHF, HRK, MXN, ZAR, INR, CNY, THB, AUD, ILS, KRW, JPY, PLN, GBP, IDR, HUF, PHP, TRY, RUB, HKD, EUR, DKK, USD, CAD, MYR, BGN, NOK, RON, SGD, CZK, SEK, NZD, BRL]
+2016-08-31 11:55:00 INFO  Input:36 - Possesed Currency USD's Rate to Euro: 1.117
+2016-08-31 11:55:00 INFO  Input:38 - Destination Currency USD's Rate to Euro: 1.117
+2016-08-31 11:55:00 INFO  Input:40 - Exchange rate of USD to USD is 1.0
+2016-08-31 11:55:00 INFO  Input:41 - Here's your 3.0 USD.
+2016-08-31 12:44:02 INFO  Input:34 - Please choose the currency you have from: [CHF, HRK, MXN, ZAR, INR, CNY, THB, AUD, ILS, KRW, JPY, PLN, GBP, IDR, HUF, PHP, TRY, RUB, HKD, EUR, DKK, USD, CAD, MYR, BGN, NOK, RON, SGD, CZK, SEK, NZD, BRL]
+2016-08-31 12:44:08 INFO  Input:36 - Possesed Currency null's Rate to Euro: null
+2016-08-31 12:44:08 INFO  Input:38 - Destination Currency null's Rate to Euro: null
+2016-08-31 12:45:05 INFO  Input:34 - Please choose the currency you have from: [CHF, HRK, MXN, ZAR, INR, CNY, THB, AUD, ILS, KRW, JPY, PLN, GBP, IDR, HUF, PHP, TRY, RUB, HKD, EUR, DKK, USD, CAD, MYR, BGN, NOK, RON, SGD, CZK, SEK, NZD, BRL]
+2016-08-31 12:45:09 INFO  Input:36 - Possesed Currency USD's Rate to Euro: 1.117
+2016-08-31 12:45:09 INFO  Input:38 - Destination Currency USD's Rate to Euro: 1.117
+2016-08-31 12:45:09 INFO  Input:40 - Exchange rate of USD to USD is 1.0
+2016-08-31 12:45:09 INFO  Input:52 - Here's your 3.0 USD.
+2016-08-31 12:45:16 INFO  Input:34 - Please choose the currency you have from: [CHF, HRK, MXN, ZAR, INR, CNY, THB, AUD, ILS, KRW, JPY, PLN, GBP, IDR, HUF, PHP, TRY, RUB, HKD, EUR, DKK, USD, CAD, MYR, BGN, NOK, RON, SGD, CZK, SEK, NZD, BRL]
+2016-08-31 12:45:21 INFO  Input:36 - Possesed Currency null's Rate to Euro: null
+2016-08-31 12:45:21 INFO  Input:38 - Destination Currency null's Rate to Euro: null
+2016-08-31 12:49:16 INFO  Input:34 - Please choose the currency you have from: [CHF, HRK, MXN, ZAR, INR, CNY, THB, AUD, ILS, KRW, JPY, PLN, GBP, IDR, HUF, PHP, TRY, RUB, HKD, EUR, DKK, USD, CAD, MYR, BGN, NOK, RON, SGD, CZK, SEK, NZD, BRL]
+2016-08-31 12:49:21 INFO  Input:36 - Possesed Currency USD's Rate to Euro: 1.117
+2016-08-31 12:49:21 INFO  Input:38 - Destination Currency USD's Rate to Euro: 1.117
+2016-08-31 12:49:21 INFO  Input:40 - Exchange rate of USD to USD is 1.0
+2016-08-31 12:49:21 INFO  Input:52 - Here's your 3.0 USD.
+2016-08-31 13:55:46 INFO  Input:34 - Please choose the currency you have from: [CHF, HRK, MXN, ZAR, INR, CNY, THB, AUD, ILS, KRW, JPY, PLN, GBP, IDR, HUF, PHP, TRY, RUB, HKD, EUR, DKK, USD, CAD, MYR, BGN, NOK, RON, SGD, CZK, SEK, NZD, BRL]
+2016-08-31 13:55:51 INFO  Input:36 - Possesed Currency USD's Rate to Euro: 1.117
+2016-08-31 13:55:51 INFO  Input:38 - Destination Currency CNY's Rate to Euro: 7.4608
+2016-08-31 13:55:51 INFO  Input:40 - Exchange rate of CNY to USD is 6.679319606087735
+2016-08-31 13:55:51 INFO  Input:52 - Here's your 20.03 CNY.
+2016-08-31 14:01:28 INFO  Input:34 - Please choose the currency you have from: [CHF, HRK, MXN, ZAR, INR, CNY, THB, AUD, ILS, KRW, JPY, PLN, GBP, IDR, HUF, PHP, TRY, RUB, HKD, EUR, DKK, USD, CAD, MYR, BGN, NOK, RON, SGD, CZK, SEK, NZD, BRL]
+2016-08-31 14:01:31 INFO  Input:34 - Please choose the currency you have from: [CHF, HRK, MXN, ZAR, INR, CNY, THB, AUD, ILS, KRW, JPY, PLN, GBP, IDR, HUF, PHP, TRY, RUB, HKD, EUR, DKK, USD, CAD, MYR, BGN, NOK, RON, SGD, CZK, SEK, NZD, BRL]
+2016-08-31 14:01:38 INFO  Input:34 - Please choose the currency you have from: [CHF, HRK, MXN, ZAR, INR, CNY, THB, AUD, ILS, KRW, JPY, PLN, GBP, IDR, HUF, PHP, TRY, RUB, HKD, EUR, DKK, USD, CAD, MYR, BGN, NOK, RON, SGD, CZK, SEK, NZD, BRL]
+2016-08-31 14:01:39 INFO  Input:34 - Please choose the currency you have from: [CHF, HRK, MXN, ZAR, INR, CNY, THB, AUD, ILS, KRW, JPY, PLN, GBP, IDR, HUF, PHP, TRY, RUB, HKD, EUR, DKK, USD, CAD, MYR, BGN, NOK, RON, SGD, CZK, SEK, NZD, BRL]
+2016-08-31 14:01:41 INFO  Input:34 - Please choose the currency you have from: [CHF, HRK, MXN, ZAR, INR, CNY, THB, AUD, ILS, KRW, JPY, PLN, GBP, IDR, HUF, PHP, TRY, RUB, HKD, EUR, DKK, USD, CAD, MYR, BGN, NOK, RON, SGD, CZK, SEK, NZD, BRL]
+2016-08-31 14:01:53 INFO  Input:34 - Please choose the currency you have from: [CHF, HRK, MXN, ZAR, INR, CNY, THB, AUD, ILS, KRW, JPY, PLN, GBP, IDR, HUF, PHP, TRY, RUB, HKD, EUR, DKK, USD, CAD, MYR, BGN, NOK, RON, SGD, CZK, SEK, NZD, BRL]
+2016-08-31 14:02:52 INFO  Input:34 - Please choose the currency you have from: [CHF, HRK, MXN, ZAR, INR, CNY, THB, AUD, ILS, KRW, JPY, PLN, GBP, IDR, HUF, PHP, TRY, RUB, HKD, EUR, DKK, USD, CAD, MYR, BGN, NOK, RON, SGD, CZK, SEK, NZD, BRL]
+2016-08-31 14:02:54 INFO  Input:34 - Please choose the currency you have from: [CHF, HRK, MXN, ZAR, INR, CNY, THB, AUD, ILS, KRW, JPY, PLN, GBP, IDR, HUF, PHP, TRY, RUB, HKD, EUR, DKK, USD, CAD, MYR, BGN, NOK, RON, SGD, CZK, SEK, NZD, BRL]
+2016-08-31 14:02:58 INFO  Input:34 - Please choose the currency you have from: [CHF, HRK, MXN, ZAR, INR, CNY, THB, AUD, ILS, KRW, JPY, PLN, GBP, IDR, HUF, PHP, TRY, RUB, HKD, EUR, DKK, USD, CAD, MYR, BGN, NOK, RON, SGD, CZK, SEK, NZD, BRL]
+2016-08-31 14:04:07 INFO  Input:34 - Please choose the currency you have from: [CHF, HRK, MXN, ZAR, INR, CNY, THB, AUD, ILS, KRW, JPY, PLN, GBP, IDR, HUF, PHP, TRY, RUB, HKD, EUR, DKK, USD, CAD, MYR, BGN, NOK, RON, SGD, CZK, SEK, NZD, BRL]
+2016-08-31 14:04:15 INFO  Input:36 - Possesed Currency USD's Rate to Euro: 1.117
+2016-08-31 14:04:15 INFO  Input:38 - Destination Currency USD's Rate to Euro: 1.117
+2016-08-31 14:04:15 INFO  Input:40 - Exchange rate of USD to USD is 1.0
+2016-08-31 14:04:15 INFO  Input:69 - Here's your 3.0 USD.
+2016-08-31 14:38:39 INFO  Input:45 - Possesed Currency null's Rate to Euro: null
+2016-08-31 14:38:39 INFO  Input:47 - Destination Currency null's Rate to Euro: null
+2016-08-31 14:42:44 INFO  Input:49 - Possesed Currency null's Rate to Euro: null
+2016-08-31 14:42:44 INFO  Input:51 - Destination Currency null's Rate to Euro: null
+2016-08-31 14:45:08 INFO  Input:34 - Please choose the currency you have from: [CHF, HRK, MXN, ZAR, INR, CNY, THB, AUD, ILS, KRW, JPY, PLN, GBP, IDR, HUF, PHP, TRY, RUB, HKD, EUR, DKK, USD, CAD, MYR, BGN, NOK, RON, SGD, CZK, SEK, NZD, BRL]
+2016-08-31 14:45:13 INFO  Input:49 - Possesed Currency USD's Rate to Euro: null
+2016-08-31 14:45:13 INFO  Input:51 - Destination Currency USD's Rate to Euro: null
+2016-08-31 14:45:31 INFO  Input:34 - Please choose the currency you have from: [CHF, HRK, MXN, ZAR, INR, CNY, THB, AUD, ILS, KRW, JPY, PLN, GBP, IDR, HUF, PHP, TRY, RUB, HKD, EUR, DKK, USD, CAD, MYR, BGN, NOK, RON, SGD, CZK, SEK, NZD, BRL]
+2016-08-31 14:45:34 INFO  Input:49 - Possesed Currency USD's Rate to Euro: 1.117
+2016-08-31 14:45:34 INFO  Input:51 - Destination Currency USD's Rate to Euro: 1.117
+2016-08-31 14:45:34 INFO  Input:53 - Exchange rate of USD to USD is 1.0
+2016-08-31 14:45:34 INFO  Input:69 - Here's your 3.0 USD.
+2016-08-31 14:46:07 INFO  Input:34 - Please choose the currency you have from: [CHF, HRK, MXN, ZAR, INR, CNY, THB, AUD, ILS, KRW, JPY, PLN, GBP, IDR, HUF, PHP, TRY, RUB, HKD, EUR, DKK, USD, CAD, MYR, BGN, NOK, RON, SGD, CZK, SEK, NZD, BRL]
+2016-08-31 14:46:12 INFO  Input:50 - Possesed Currency USD's Rate to Euro: 1.117
+2016-08-31 14:46:12 INFO  Input:52 - Destination Currency USD's Rate to Euro: 1.117
+2016-08-31 14:46:12 INFO  Input:54 - Exchange rate of USD to USD is 1.0
+2016-08-31 14:46:12 INFO  Input:69 - Here's your 3.0 USD.
+2016-08-31 15:15:02 INFO  Input:34 - Please choose the currency you have from: [CHF, HRK, MXN, ZAR, INR, CNY, THB, AUD, ILS, KRW, JPY, PLN, GBP, IDR, HUF, PHP, TRY, RUB, HKD, EUR, DKK, USD, CAD, MYR, BGN, NOK, RON, SGD, CZK, SEK, NZD, BRL]
+2016-08-31 15:15:08 INFO  Input:55 - Possesed Currency USD's Rate to Euro: 1.117
+2016-08-31 15:15:08 INFO  Input:57 - Destination Currency CHF's Rate to Euro: 1.0937
+2016-08-31 15:15:08 INFO  Input:59 - Exchange rate of CHF to USD is 0.9791405550581915
+2016-08-31 15:15:08 INFO  Input:69 - Here's your 2.93 CHF.
+2016-08-31 16:07:54 INFO  Input:34 - Please choose the currency you have from: [CHF, HRK, MXN, ZAR, INR, CNY, THB, AUD, ILS, KRW, JPY, PLN, GBP, IDR, HUF, PHP, TRY, RUB, HKD, EUR, DKK, USD, CAD, MYR, BGN, NOK, RON, SGD, CZK, SEK, NZD, BRL]
+2016-08-31 16:08:04 INFO  Input:69 - Here's your 3.0 USD.
+2016-08-31 16:08:09 INFO  Input:34 - Please choose the currency you have from: [CHF, HRK, MXN, ZAR, INR, CNY, THB, AUD, ILS, KRW, JPY, PLN, GBP, IDR, HUF, PHP, TRY, RUB, HKD, EUR, DKK, USD, CAD, MYR, BGN, NOK, RON, SGD, CZK, SEK, NZD, BRL]
+2016-08-31 16:08:14 INFO  Input:69 - Here's your 2.93 CHF.
+2016-08-31 16:08:46 INFO  Input:34 - Please choose the currency you have from: [CHF, HRK, MXN, ZAR, INR, CNY, THB, AUD, ILS, KRW, JPY, PLN, GBP, IDR, HUF, PHP, TRY, RUB, HKD, EUR, DKK, USD, CAD, MYR, BGN, NOK, RON, SGD, CZK, SEK, NZD, BRL]
+2016-08-31 16:08:57 INFO  Input:69 - Here's your 102.27 JPY.
+2016-08-31 16:39:22 INFO  Input:47 - Possesed Currency USD's Rate to Euro: 1.117
+2016-08-31 16:39:22 INFO  Input:50 - Destination Currency JPY's Rate to Euro: 114.24
+2016-08-31 16:39:22 INFO  Input:53 - Exchange rate of JPY to USD is 102.27394807520143
+2016-08-31 16:43:43 INFO  Input:34 - Please choose the currency you have from: [CHF, HRK, MXN, ZAR, INR, CNY, THB, AUD, ILS, KRW, JPY, PLN, GBP, IDR, HUF, PHP, TRY, RUB, HKD, EUR, DKK, USD, CAD, MYR, BGN, NOK, RON, SGD, CZK, SEK, NZD, BRL]
+2016-08-31 16:43:55 INFO  Input:47 - Possesed Currency USD's Rate to Euro: 1.117
+2016-08-31 16:43:55 INFO  Input:49 - Destination Currency HRK's Rate to Euro: 7.4852
+2016-08-31 16:43:55 INFO  Input:51 - Exchange rate of HRK to USD is 6.701163831692032
+2016-08-31 16:43:55 INFO  Input:66 - Here's your 20.1 HRK.
+2016-08-31 16:46:02 INFO  Input:34 - Please choose the currency you have from: [CHF, HRK, MXN, ZAR, INR, CNY, THB, AUD, ILS, KRW, JPY, PLN, GBP, IDR, HUF, PHP, TRY, RUB, HKD, EUR, DKK, USD, CAD, MYR, BGN, NOK, RON, SGD, CZK, SEK, NZD, BRL]
+2016-08-31 16:46:08 INFO  Input:47 - Possesed Currency USD's Rate to Euro: 1.117
+2016-08-31 16:46:08 INFO  Input:49 - Destination Currency JPY's Rate to Euro: 114.24
+2016-08-31 16:46:08 INFO  Input:51 - Exchange rate of JPY to USD is 102.27394807520143
+2016-08-31 16:46:08 INFO  Input:66 - Here's your 102.27 JPY.
+2016-08-31 16:48:12 INFO  Input:34 - Please choose the currency you have from: [CHF, HRK, MXN, ZAR, INR, CNY, THB, AUD, ILS, KRW, JPY, PLN, GBP, IDR, HUF, PHP, TRY, RUB, HKD, EUR, DKK, USD, CAD, MYR, BGN, NOK, RON, SGD, CZK, SEK, NZD, BRL]
+2016-08-31 16:48:19 INFO  Input:47 - Possesed Currency USD's Rate to Euro: null
+2016-08-31 16:48:19 INFO  Input:49 - Destination Currency JPY's Rate to Euro: null
+2016-08-31 16:52:45 INFO  Input:34 - Please choose the currency you have from: [CHF, HRK, MXN, ZAR, INR, CNY, THB, AUD, ILS, KRW, JPY, PLN, GBP, IDR, HUF, PHP, TRY, RUB, HKD, EUR, DKK, USD, CAD, MYR, BGN, NOK, RON, SGD, CZK, SEK, NZD, BRL]
+2016-08-31 16:52:51 INFO  Input:47 - Possesed Currency USD's Rate to Euro: 1.117
+2016-08-31 16:52:51 INFO  Input:49 - Destination Currency USD's Rate to Euro: 1.117
+2016-08-31 16:52:51 INFO  Input:51 - Exchange rate of USD to USD is 1.0
+2016-08-31 16:52:51 INFO  Input:66 - Here's your 2.0 USD.
+2016-08-31 16:56:40 INFO  Input:47 - Possesed Currency USD's Rate to Euro: 1.117
+2016-08-31 16:56:40 INFO  Input:49 - Destination Currency JPY's Rate to Euro: 114.24
+2016-08-31 16:56:40 INFO  Input:51 - Exchange rate of JPY to USD is 102.27394807520143
+2016-08-31 16:58:02 INFO  Input:47 - Possesed Currency UUU's Rate to Euro: 1.117
+2016-08-31 16:58:02 INFO  Input:49 - Destination Currency JPY's Rate to Euro: 114.24
+2016-08-31 16:58:02 INFO  Input:51 - Exchange rate of JPY to UUU is 102.27394807520143
+2016-08-31 17:06:28 INFO  Input:39 - Please choose the currency you have from: [CHF, HRK, MXN, ZAR, INR, CNY, THB, AUD, ILS, KRW, JPY, PLN, GBP, IDR, HUF, PHP, TRY, RUB, HKD, EUR, DKK, USD, CAD, MYR, BGN, NOK, RON, SGD, CZK, SEK, NZD, BRL]
+2016-08-31 17:06:32 INFO  Input:47 - Possesed Currency null's Rate to Euro: null
+2016-08-31 17:06:32 INFO  Input:49 - Destination Currency null's Rate to Euro: null
+2016-08-31 17:23:23 INFO  Input:40 - Please choose the currency you have from: [CHF, HRK, MXN, ZAR, INR, CNY, THB, AUD, ILS, KRW, JPY, PLN, GBP, IDR, HUF, PHP, TRY, RUB, HKD, EUR, DKK, USD, CAD, MYR, BGN, NOK, RON, SGD, CZK, SEK, NZD, BRL]
+2016-08-31 17:23:27 INFO  Input:59 - Possesed Currency CHF's Rate to Euro: 1.0937
+2016-08-31 17:23:27 INFO  Input:61 - Destination Currency USD's Rate to Euro: 1.117
+2016-08-31 17:23:27 INFO  Input:63 - Exchange rate of USD to CHF is 1.021303831032276
+2016-08-31 17:23:27 INFO  Input:72 - Here's your 3.06 USD.
